@@ -17,19 +17,19 @@ This notebook uses data from a fasting app to predict whether someone will have 
 
 ## Features
 fasting_app_users.csv
--user_id: user id
--reason_for_fasting: reason given by user for engaging in fasting
--type_of_fast: type of fast the user is participating in (e.g., 18 hours)
--fasting_notification: time fasting notification is set (if no notification is set, nan)
--age: user age
--gender: user gender
+- user_id: user id
+- reason_for_fasting: reason given by user for engaging in fasting
+- type_of_fast: type of fast the user is participating in (e.g., 18 hours)
+- fasting_notification: time fasting notification is set (if no notification is set, nan)
+- age: user age
+- gender: user gender
 
 
 fasting_log.csv
--user_id: user id
--timestamp: time log was made
--fasting_duration: length of fast
--hunger_level: 0-100 (100 being extremely hungry)
--last_meal_count: majority of the content of the last meal before the fast began
--motivations: motivations indicated by user as influencing fasting behavior
--fasting_experience: the outcome of the fast indicated by the user
+- user_id: user id
+- timestamp: time log was made
+- fasting_duration: length of fast
+- hunger_level: 0-100 (100 being extremely hungry)
+- last_meal_count: majority of the content of the last meal before the fast began
+- motivations: motivations indicated by user as influencing fasting behavior
+- fasting_experience: the outcome of the fast indicated by the user
