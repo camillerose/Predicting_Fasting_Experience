@@ -1,5 +1,5 @@
 # Predicting Fasting Experience
-This notebook uses data from a fasting app to predict whether someone will have a positive or negative fasting experience. In addition, there is a heavy exploratory data analysis component in this notebook, including k-means clustering, the labels of which are used in a random forest regression model.
+This notebook uses data from a fasting app to predict whether someone will have a positive or negative fasting experience. In addition, there is a heavy exploratory data analysis component in this notebook, including k-means clustering, the labels of which are used in a random forest regression model. This analysis was completed in 8 hours.
 
 ## Goals:
 - Identify key factors that influence a user’s fasting experience
